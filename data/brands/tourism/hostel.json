@@ -44,6 +44,16 @@
       }
     },
     {
+      "displayName": "Forenom",
+      "locationSet": {"include": ["fi", "se"]},
+      "tags": {
+        "brand": "Forenom",
+        "name": "Forenom Hostel",
+        "tourism": "hostel",
+        "wikidata": "Q101142662",
+      }
+    },
+    {
       "displayName": "Girls Hostel",
       "id": "girlshostel-840e3b",
       "locationSet": {"include": ["001"]},
